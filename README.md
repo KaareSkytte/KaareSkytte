@@ -16,6 +16,8 @@ Jeg søger muligheder, hvor jeg kan kombinere mit produktudviklingsmindset med m
 # 📊 Boot.Dev Stats:
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/38d5c04c-d1ad-4e8e-9e6a-4ede6c8baa80/thumbnail" >
+  <img width="934" height="187" alt="Screenshot 2025-07-13 155456" src="https://github.com/user-attachments/assets/11eefb1a-c249-43d0-bbb6-e75cebaf58b6" />
 </p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
