@@ -1,12 +1,9 @@
-## 👋 Hej! Jeg hedder Kåre Skytte - en industriel designer med en stigende passion for teknologi, software og automatisering.
-
-Jeg er en produktudvikler med en baggrund i industriel design, der i øjeblikket specialiserer mig i backend-udvikling gennem det strukturerede læringsforløb på Boot.dev. Her arbejder jeg hands-on med Python, JavaScript og Go, og opbygger en stærk forståelse for softwarearkitektur, datastrukturer og API-udvikling.<br/>
-
-På min GitHub dokumenterer jeg min tekniske udvikling gennem projekter og øvelser, med fokus på clean code, funktionalitet og skalerbarhed. Min tilgang er læringsdrevet og praksisorienteret og jeg tror på at bygge for at forstå.<br/>
-
-Jeg søger muligheder, hvor jeg kan kombinere mit produktudviklingsmindset med mine tekniske kompetencer og bidrage til teams, der arbejder målrettet med kvalitet, problemløsning og kontinuerlig forbedring.<br/>
-
-
+<h2>Hej, jeg er Kåre Skytte</h2><br/>
+🛠️ Industriel designer vendt backend-udvikler<br/>
+👨‍💻 Lærer Go, Python og JavaScript gennem Boot.dev<br/>
+🔄 Bygger projekter for at lære — og for at skabe<br/>
+🎯 Passioneret omkring clean code, automation og problemløsning<br/>
+💼 På udkig efter muligheder hvor tech og produktudvikling mødes<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaareskytte) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaareskytte1431@gmail.com) 
@@ -18,6 +15,3 @@ Jeg søger muligheder, hvor jeg kan kombinere mit produktudviklingsmindset med m
   <img src="https://api.boot.dev/v1/users/public/38d5c04c-d1ad-4e8e-9e6a-4ede6c8baa80/thumbnail" >
   <img width="934" height="187" alt="Screenshot 2025-07-13 155456" src="https://github.com/user-attachments/assets/11eefb1a-c249-43d0-bbb6-e75cebaf58b6" />
 </p>
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
