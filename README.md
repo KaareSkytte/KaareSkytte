@@ -1,7 +1,7 @@
 <h2>Hej, jeg er Kåre Skytte</h2><br/>
 🛠️ Industriel designer vendt backend-udvikler<br/>
 👨‍💻 Lærer Go, Python og JavaScript gennem Boot.dev<br/>
-🔄 Bygger projekter for at lære — og for at skabe<br/>
+🔄 Bygger projekter for at lære<br/>
 🎯 Passioneret omkring clean code, automation og problemløsning<br/>
 💼 På udkig efter muligheder hvor tech og produktudvikling mødes<br/>
 
