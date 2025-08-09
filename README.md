@@ -1,7 +1,6 @@
 <h2>Hej, jeg er Kåre Skytte</h2><br/>
-🛠️ Industriel designer vendt backend-udvikler<br/>
+🛠️ Industriel designer -> backend-udvikler<br/>
 👨‍💻 Lærer Go, Python og JavaScript gennem Boot.dev<br/>
-🔄 Bygger projekter for at lære<br/>
 🎯 Passioneret omkring clean code, automation og problemløsning<br/>
 💼 På udkig efter muligheder hvor tech og produktudvikling mødes<br/>
 
@@ -13,5 +12,5 @@
 # 📊 Boot.Dev Stats:
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/38d5c04c-d1ad-4e8e-9e6a-4ede6c8baa80/thumbnail" >
-  <img width="934" height="187" alt="Screenshot 2025-07-13 155456" src="https://github.com/user-attachments/assets/11eefb1a-c249-43d0-bbb6-e75cebaf58b6" />
+  <img width="934" height="191" alt="Screenshot 2025-08-09 113540" src="https://github.com/user-attachments/assets/13f5892d-4e91-4485-9c3e-3f0979b721ec" />
 </p>
